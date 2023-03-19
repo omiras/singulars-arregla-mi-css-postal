@@ -12,7 +12,7 @@ Este debería ser el diseño original de la postal:
 
 <img src="https://oscarm.tinytake.com/media/142df94?filename=1679221628829_TinyTake19-03-2023-11-27-09_638148184307571423.png&sub_type=thumbnail_preview&type=attachment&width=784&height=509" title="Powered by TinyTake Screen Capture"/><br>
 
-Sin embargo no se ve del todo bien.
+Sin embargo no se ve del todo bien. Abre la Web con Live Server para comprobarlo.
 
 Arregla los errores de maquetación
 Cada error de maquetación listado a continuación se resuelve modificando/añadiendo UNA SOLA línea de CSS.
