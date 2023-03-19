@@ -21,7 +21,7 @@ No cambies todo el diseño CSS.
 1. El color de fondo excepto el de la postal debería ser negro
 2. El icono de la postal se ha ido muuy arriba. (recuerda, solo modificar una línea CSS para resolver esto)
 3. No podemos ver la línea debajo de cada campo del formulario "Some Name", "Some Email", etc.
-4. El botón situado en el footer NO está alineado en el centor
+4. El botón situado en el footer NO está alineado en el centro
 5. En la imagen original no se ve, pero nos han pedido dejar un poquito de espacio entre el texto "Send My Postcard" y el borde, para que el texto no esté tan apretujado
 
 Aprvecha para analizar el CSS que has obtenido y preguntar aquellas partes que no acabes de entender.
